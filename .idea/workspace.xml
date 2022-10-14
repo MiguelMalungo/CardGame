@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e7d0569-8b49-45f2-b843-d8b7e504bbab" name="Changes" comment="Merge remote-tracking branch 'origin/NewClasses' into NewClasses" />
+    <list default="true" id="0e7d0569-8b49-45f2-b843-d8b7e504bbab" name="Changes" comment="Merge remote-tracking branch 'origin/NewClasses' into NewClasses">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
