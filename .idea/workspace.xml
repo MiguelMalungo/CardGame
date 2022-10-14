@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e7d0569-8b49-45f2-b843-d8b7e504bbab" name="Changes" comment="New classes" />
+    <list default="true" id="0e7d0569-8b49-45f2-b843-d8b7e504bbab" name="Changes" comment="Merge remote-tracking branch 'origin/NewClasses' into NewClasses" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="NewClasses" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -108,6 +108,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="changes" />
     <MESSAGE value="New classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="New classes" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/NewClasses' into NewClasses" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/NewClasses' into NewClasses" />
   </component>
 </project>
